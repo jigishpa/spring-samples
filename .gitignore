@@ -1,0 +1,6 @@
+**/target/**
+**/build/**
+**/.gradle/**
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.DS_Store

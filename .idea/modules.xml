@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/misc/account-generator/account-generator.iml" filepath="$PROJECT_DIR$/misc/account-generator/account-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop/hello/hello.iml" filepath="$PROJECT_DIR$/aop/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-samples.iml" filepath="$PROJECT_DIR$/spring-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskmaster/taskmaster.iml" filepath="$PROJECT_DIR$/taskmaster/taskmaster.iml" />
+    </modules>
+  </component>
+</project>

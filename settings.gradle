@@ -1,0 +1,10 @@
+rootProject.name = 'spring-samples'
+
+include 'taskmaster'
+
+include 'misc/account-generator'
+rootProject.children.find { it.name == 'misc/account-generator' }.name = 'account-generator'
+
+include 'aop/hello'
+rootProject.children.find { it.name == 'aop/hello' }.name = 'hello'
+
